@@ -1,7 +1,13 @@
 # Conky-Themes
 Conky Themes, for the public 
 
-![image](https://github.com/alexdcodes/Conky-Themes/assets/23444429/73f4b2f7-0623-44c9-b9eb-138b71797d0c)
+Pre themeing 
+
+![image](https://github.com/alexdcodes/conky-themes/assets/23444429/cab432ee-6fd6-4ba9-96c1-47a8d8f82a04)
+
+Post Themes Example
+
+![image](https://github.com/alexdcodes/conky-themes/assets/23444429/6157fe28-44ee-4d08-a3d6-82eb7f65e761)
 
 
 ## Install conky package on Linux Operating Systems
